@@ -1,2 +1,2 @@
 # Git-GitHub
-Repository
+This is for training purpose.
